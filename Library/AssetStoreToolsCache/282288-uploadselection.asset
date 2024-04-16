@@ -1,0 +1,21 @@
+{"ActiveWorkflow" : "FolderWorkflow", "FolderWorkflow" : {
+"mainPath" : {
+"path" : "Assets\/Classic Fps Movement", 
+"guid" : "2d194611c0c4b9543991bf8e0c556b14"
+}, 
+"extraPaths" : [], 
+"dependencies" : false, 
+"dependenciesNames" : []
+}, "UnitypackageWorkflow" : {
+"mainPath" : {
+"path" : "", 
+"guid" : ""
+}, 
+"extraPaths" : []
+}, "HybridPackageWorkflow" : {
+"mainPath" : {
+"path" : "", 
+"guid" : ""
+}, 
+"extraPaths" : []
+}}

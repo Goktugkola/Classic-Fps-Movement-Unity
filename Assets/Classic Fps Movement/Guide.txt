@@ -1,0 +1,4 @@
+Open your scene
+Add FPSMovement script to your player object
+Add FPSCamera script to your player's camera object
+adjust variables
