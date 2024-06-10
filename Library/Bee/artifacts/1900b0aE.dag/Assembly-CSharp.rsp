@@ -364,6 +364,7 @@
 "Assets/Classic Fps Movement/Player/FPSCamera.cs"
 "Assets/Classic Fps Movement/Player/FPSMovement.cs"
 "Assets/Classic Fps Movement/Player/RebindingScript.cs"
+"Assets/Classic Fps Movement/Scripts/InputHandler.cs"
 "Assets/Classic Fps Movement/Scripts/Inventory.cs"
 "Assets/Classic Fps Movement/Scripts/InventoryItem.cs"
 "Assets/Classic Fps Movement/Scripts/InventoryMenu.cs"
@@ -371,6 +372,9 @@
 "Assets/Classic Fps Movement/Scripts/ItemData.cs"
 "Assets/Classic Fps Movement/Scripts/OptionsMenu.cs"
 "Assets/Classic Fps Movement/Scripts/PauseMenu.cs"
+"Assets/Classic Fps Movement/Scripts/ShopItem.cs"
+"Assets/Classic Fps Movement/Scripts/ShopMenu.cs"
+"Assets/Classic Fps Movement/Scripts/ViewManager.cs"
 "Assets/Classic Fps Movement/UI/SpeedDisplay.cs"
 -langversion:9.0
 

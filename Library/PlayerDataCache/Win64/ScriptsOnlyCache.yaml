@@ -4,11 +4,11 @@ ScriptsOnlyBuild:
     - FPSCamera
     - Inventory
     - InventoryMenu
-    - Item
     - ItemData
     - PauseMenu
     - PlayerMovement
     - RebindingScript
+    - ShopItem
     - SpeedDisplay
     Unity.InputSystem.RebindingUI.dll:
     - UnityEngine.InputSystem.Samples.RebindUI.RebindActionUI
@@ -145,7 +145,7 @@ ScriptsOnlyBuild:
     fullTypeName: PauseMenu
     methodName: Resume
   - assembly: Assembly-CSharp
-    fullTypeName: Item
+    fullTypeName: ShopItem
     methodName: RemoveItem
   sceneClasses:
     Assets/Classic Fps Movement/SampleScene.unity:
@@ -226,8 +226,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 21398}
     - Class: 114
-      Script: {instanceID: 21628}
-    - Class: 114
       Script: {instanceID: 21778}
     - Class: 114
       Script: {instanceID: 22180}
@@ -245,6 +243,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 23268}
     - Class: 114
       Script: {instanceID: 23626}
+    - Class: 114
+      Script: {instanceID: 26272}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1252,7 +1252,7 @@ ScriptsOnlyBuild:
     className: MultiplayerEventSystem
   - hash:
       serializedVersion: 2
-      Hash: 37572c2801f9470e4149b306611fa2a1
+      Hash: 5ce0a23a2126f7430c2aad25e54a47ec
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: PlayerMovement
@@ -1352,6 +1352,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 082d6b828e161596b91f751005c08640
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ShopItem
   platform: 19
   scenePathNames:
   - Assets/Classic Fps Movement/SampleScene.unity

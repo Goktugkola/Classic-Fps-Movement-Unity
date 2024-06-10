@@ -70,11 +70,15 @@
     <Compile Include="Assets\Classic Fps Movement\Scripts\OptionsMenu.cs" />
     <Compile Include="Assets\Classic Fps Movement\Scripts\Inventory.cs" />
     <Compile Include="Assets\Classic Fps Movement\Scripts\InventoryMenu.cs" />
+    <Compile Include="Assets\Classic Fps Movement\Scripts\ShopItem.cs" />
     <Compile Include="Assets\Classic Fps Movement\Scripts\InventoryItem.cs" />
     <Compile Include="Assets\Classic Fps Movement\Scripts\Item.cs" />
+    <Compile Include="Assets\Classic Fps Movement\Scripts\InputHandler.cs" />
+    <Compile Include="Assets\Classic Fps Movement\Scripts\ViewManager.cs" />
     <Compile Include="Assets\Classic Fps Movement\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Classic Fps Movement\Player\FPSMovement.cs" />
     <Compile Include="Assets\Classic Fps Movement\UI\SpeedDisplay.cs" />
+    <Compile Include="Assets\Classic Fps Movement\Scripts\ShopMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

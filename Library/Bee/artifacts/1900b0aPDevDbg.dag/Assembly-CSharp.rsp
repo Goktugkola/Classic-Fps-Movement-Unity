@@ -325,6 +325,7 @@
 "Assets/Classic Fps Movement/Scripts/ItemData.cs"
 "Assets/Classic Fps Movement/Scripts/OptionsMenu.cs"
 "Assets/Classic Fps Movement/Scripts/PauseMenu.cs"
+"Assets/Classic Fps Movement/Scripts/ShopItem.cs"
 "Assets/Classic Fps Movement/UI/SpeedDisplay.cs"
 -langversion:9.0
 
