@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: PlayerInventory
   m_EditorClassIdentifier: 
   items:
-  - itemName: Cube (10)
-    itemID: 10
+  - itemName: 
+    itemID: 0
+    itemIcon: {fileID: 0}
+  - itemName: Axe
+    itemID: 15
     itemIcon: {fileID: 0}
   inventorySize: 20

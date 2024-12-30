@@ -22,4 +22,7 @@ MonoBehaviour:
   - itemName: C4
     itemID: 15
     itemIcon: {fileID: 0}
+  - itemName: 3
+    itemID: 15
+    itemIcon: {fileID: 0}
   inventorySize: 20
